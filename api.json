@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Metagross",
+      "thumbnailUrl": "./img/manga1.png"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "Legendarios Johto",
+      "thumbnailUrl": ""
+    },
+    {
+      "precio": 100,
+      "id": 3,
+      "title": "Equipo Mewtwo",
+      "thumbnailUrl": "./img/pokemon 3.webp"
+    },
+    {
+      "precio": 500,
+      "id": 4,
+      "title": "Rayquaza",
+      "thumbnailUrl": "./img/pokemon 4.jpg"
+    },
+    {
+      "precio": 170,
+      "id": 5,
+      "title": "Machamp",
+      "thumbnailUrl": "./img/pokemon 5.jpg"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "greninja",
+      "thumbnailUrl": "./img/pokemon 6.jpg"
+    }
+  ]

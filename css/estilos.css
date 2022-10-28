@@ -1,0 +1,27 @@
+.container-fluid{
+    text-align: center;
+    padding-top:5%;
+    width:80%;
+}
+.productos{
+    position:left;
+}
+.card{
+    align-items: center;
+    margin-top:5%;
+    margin-left:5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 2em;
+}
+.img-card-top{
+    width: 250px;
+    height: 350px;
+    padding: 10px;
+}
+.carrito{
+    border: 3px solid red;
+    border-radius: 2em;
+    margin-top:10%;
+    margin-bottom:10%;
+}
